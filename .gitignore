@@ -1,0 +1,6 @@
+detected/
+build/
+dist/
+features/
+new/
+__pycache__/
